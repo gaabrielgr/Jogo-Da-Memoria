@@ -1,2 +1,2 @@
 
-<a href="https://www.jogo-da-memoria-five.vercel.app/">Link do projeto </a>
+<a href="jogo-da-memoria-five.vercel.app/">Link do projeto </a>
